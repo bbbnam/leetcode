@@ -41,4 +41,6 @@ res = 7 ^ (3 ^ 3) ^ (4 ^ 4) ^ (5 ^ 5)
 = 7 ^ 0
 = 7
 </pre>
+source : https://leetcode.com/problems/single-number/solution/702307  techmaze's reply
+
 </div>
